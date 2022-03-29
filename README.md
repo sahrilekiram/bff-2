@@ -4,7 +4,7 @@ pkg update && pkg upgrade -y
 pkg install python 
 pkg install git
 pip install cython 
-git clone https://github.com/Mark-Zuck/bff-2 
+git clone https://github.com/sahrilekiram/bff-2 
 ````
 Perhatikan gambar berikut!
 <img src="https://github.com/Mark-Zuck/bff-2/blob/main/__pycache__/IMG_20220303_102017.jpg" width="640" title="Menu" alt="Menu">
@@ -27,10 +27,10 @@ rm -rf bff-2
 git clone https://github.com/sahrilekiram/bff-2 
 ````
 #### menu login : <br>
-<img src="https://github.com/Mark-Zuck/bff-2/blob/main/__pycache__/IMG_20220303_120755.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/sahrilekiram/bff-2" width="640" title="Menu" alt="Menu">
 
 #### Info Menu :<br>
-<img src="https://github.com/Mark-Zuck/bff-/blob/main/__pycache__/IMG_20220224_151911.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/sahrilekiram/bff-2" width="640" title="Menu" alt="Menu">
 
 #### Methode crack :
 • 01 Methode free (fast crack) <br>
